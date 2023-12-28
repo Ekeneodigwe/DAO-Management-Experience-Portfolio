@@ -1,7 +1,3 @@
-# DAO-Operations-Lead
-
-This repository showcases professional examples of my work in stewarding decentralized autonomous organizations focused on empowering marginalized communities through web3 innovation. 
-
 # Featured Projects:
 
 # AfrofutureDAO Genesis & Growth
