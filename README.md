@@ -10,9 +10,9 @@
 
 ** Token Research Working Group:**
 
-* **Founder & Lead Researcher:** Launched and led a working group exploring token engineering best practices for grassroots social innovation DAOs in the Global South.
+* **Founder & Lead Researcher:** Launched and led a working group exploring token engineering best practices for grassroots social innovation DAOs in the Global South.  [[Afrofuture token study case group]](https://snapshot.org/#/afrofuture.eth/proposal/0x2a0e8af6bf11961015c25d52f00a323827080dbf5d2181cb3593962e9014114a)
 * **Impactful Research:** Co-authored a whitepaper outlining innovative token models to incentivize community participation and drive sustainable social impact.
-* **Knowledge Disseminator:** Presented research findings at prestigious conferences, including [Conference Name] and [Conference Name], shaping the conversation on responsible token design.
+* **Knowledge Disseminator:** Presented research findings at prestigious conferences and Universities, including [University of Fraser Valley in Canada](https://drive.google.com/file/d/1eNJiyqhETDrmDQAkzTFQVGcT5VCAn3zJ/view?ts=62ae28f6) and [Artist Onboarding Webinars](https://drive.google.com/file/d/15vESkdHGExHYV37Zj-QFB-fAslaK5SrU/view?usp=drive_link) shaping the conversation on responsible token design.
 
 ** AFTR NFT Community:**
 
